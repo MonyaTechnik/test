@@ -1,3 +1,3 @@
 # test
 testo
-![](https://testserverphp.nrdns.repl.co/justcounter/)
+![](https://testserverphp.nrdns.repl.co/gitcounter)
